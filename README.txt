@@ -6,7 +6,5 @@ $ choco install make
 
 Y listo podemos utilizar el comando make
 
- Me atrae  como el flúor  a los electrones , con su alta afinida electronica
- Es el vector que le da dirección a mi vida
-y la razón que mi hipotálamo segrugue oxitocina y dopamina
+
 
